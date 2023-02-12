@@ -22,3 +22,4 @@ This program is implemented in [Python 3.7](https://www.python.org/downloads/rel
 A Geometric Brownian Motion (GBM) (also known as exponential Brownian motion) is a continuous-time stochastic process in which the logarithm of the randomly varying quantity follows a Brownian motion (also called a Wiener process) with drift.
 
 The python code in this repository is a example of the Geometric Brownian Motion using the Bank Nifty data as an example.
+
